@@ -4,7 +4,7 @@
 
 Sample React app for playing around with the Watson Speech to Text service.
 
-✨ **Demo:** https://speech-to-text-code-pattern.ng.bluemix.net/ ✨
+✨ **Demo:** https://clubinfonline.com/ ✨
 
 ![architecture](doc/source/images/architecture.png)
 
@@ -28,7 +28,7 @@ The instructions will depend on whether you are provisioning services using IBM 
 
 **Click to expand one:**
 
-<details><summary><b>IBM Cloud Pak for Data</b></summary>
+<details><summary><b>Free Open Source Platfrom</b></summary>
 <p>
 <p>
 <h4>Install and provision</h4>
@@ -48,12 +48,12 @@ The service is not available by default. An administrator must install it on the
 
 </details>
 
-<details><summary><b>IBM Cloud</b></summary>
+<details><summary><b>Clubinfonline</b></summary>
 <p>
 <h4>Create the service instance</h4>
 
-* If you do not have an IBM Cloud account, register for a free trial account [here](https://cloud.ibm.com/registration).
-* Click [here](https://cloud.ibm.com/catalog/services/speech-to-text) to create a **Speech to Text** instance.
+* If you do not have an IBM Cloud account, register for a free trial account [here]
+* Click [here]( to create a **Speech to Text** instance.
   * `Select a region`.
   * `Select a pricing plan` (**Lite** is *free*).
   * Set your `Service name` or use the generated one.
@@ -72,7 +72,7 @@ Click on one of the options below for instructions on deploying the Node.js serv
 
 |   |   |   |   |
 | - | - | - | - |
-| [![local](https://raw.githubusercontent.com/IBM/pattern-utils/master/deploy-buttons/local.png)](doc/source/local.md) | [![openshift](https://raw.githubusercontent.com/IBM/pattern-utils/master/deploy-buttons/openshift.png)](doc/source/openshift.md) | [![cf](https://raw.githubusercontent.com/IBM/pattern-utils/master/deploy-buttons/cf.png)](doc/source/cf.md) |
+| [![local]( |
 
 ## 3. Use the web app
 
